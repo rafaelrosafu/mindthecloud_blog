@@ -37,6 +37,9 @@ links:
     url: /about/
   - title: Articles
     url: /articles/
+  - title: Mind The Cloud Podcast
+    url: http://mindthecloud.com
+    external: true
   - title: Grok Podcast
     url: http://grokpodcast.com
     external: true
